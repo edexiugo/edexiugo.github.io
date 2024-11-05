@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edexiugo.github.io/ScH/sitemap_index.txt
+Sitemap: https://edexiugo.github.io/Wso/sitemap_index.txt
+Sitemap: https://edexiugo.github.io/sMB/sitemap_index.txt
+Sitemap: https://edexiugo.github.io/wRo/sitemap_index.txt
